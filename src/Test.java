@@ -39,6 +39,8 @@ public class Test {
         new Test().testLoginSuccess();
         new Test().testLoginFail();
         // nếu dùng quá nhiều new sẽ chiếm dụng bộ nhớ nhiều => code chạy chậm
+
+        System.out.println("\nHi Quỳnh");
     }
 
 }
