@@ -7,7 +7,7 @@ public class LoginPage {
     private String password;
 
     //thông qua hàm set và get lấy ra cập nhật vào biến
-    // chứ kh truy xuất trực tiếp biến private
+    //chứ kh truy xuất trực tiếp biến private
     //ưu điểm: có thể đặt tên hàm set, get dài để dễ hiểu + ghi mô tả cho hàm = sout "Open url:"
     public String getUrl() {
         return url;
